@@ -1,6 +1,6 @@
 body{
 margin:0;    
-background-color:#C77448;
+background-color:#C77448; 
 }
 
 
@@ -17,18 +17,54 @@ position:relative;
 z-index:1;
 }
 
-#logo{
+/* #4F2222 */
+
+/* #logo{
 position:absolute;
 top:0;
 left:0;
 }
-
+*/
 #button{
 position:absolute;
-left:400px;
-top:120px;
+left:30px;
+top:95px;
 z-index:2;
+border:0;
 }
+
+#coffeeshop{
+position:absolute;
+left:176px;
+top:95px;
+z-index:2;
+border:0;    
+}
+
+#coffeeshoptechnology{
+position:absolute;
+left:381px;
+top:95px;
+z-index:2;
+border:0;    
+}
+
+#typesofcoffee{
+position:absolute;
+left:724px;
+top:95px;
+z-index:2;
+border:0;    
+}
+
+#contacts{
+position:absolute;
+left:1083px;
+top:95px;
+z-index:2;
+border:0;    
+}
+
 
 
 #content{
@@ -37,6 +73,6 @@ padding:30px 100px;
 }
 
 #footer{
-height:135px;
+height:110px;
 background-color:#4F2222;
 }
