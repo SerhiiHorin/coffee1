@@ -1,0 +1,204 @@
+input[type=button], input[type=submit], input[type=reset], button, .button {
+	padding: 5px 15px;
+	margin: 3px 4px;
+	display: inline-block;
+	color: #ffffff;
+	cursor: pointer;
+	background: #4f2222;
+	background: linear-gradient(top, #4f2222 0%, #360909 100%);
+	background: -moz-linear-gradient(top, #4f2222 0%, #360909 100%);
+	background: -webkit-linear-gradient(top, #4f2222 0%, #360909 100%);
+	background: -o-linear-gradient(top, #4f2222 0%, #360909 100%);
+	border: 1px solid #4f2222;
+	border-radius: 0px;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-o-border-radius: 0px;
+	box-shadow:0px 0px 2px 1px rgba(0, 0, 0, 0.25);
+	-moz-box-shadow:0px 0px 2px 1px rgba(0, 0, 0, 0.25);
+	-webkit-box-shadow:0px 0px 2px 1px rgba(0, 0, 0, 0.25);
+	-o-box-shadow:0px 0px 2px 1px rgba(0, 0, 0, 0.25);
+	text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.50);
+	text-decoration: none;
+	font:normal 20px Tahoma, Geneva, sans-serif;
+    font-style:normal;
+}
+input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover, button:hover, .button:hover {
+	background: linear-gradient(top, #693c3c 0%, #4f2222 100%);
+	background: -moz-linear-gradient(top, #693c3c 0%, #4f2222 100%);
+	background: -webkit-linear-gradient(top, #693c3c 0%, #4f2222 100%);
+	background: -o-linear-gradient(top, #693c3c 0%, #4f2222 100%);
+}
+input[type=button]:active, input[type=submit]:active, input[type=reset]:active, button:active, .button:active{
+	opacity:0.8;
+}
+.button {
+position: relative;
+top: 55px;
+left: 150px;
+}
+
+
+
+input[type=button], input[type=submit], input[type=reset], button, .coffeeshop {
+	padding: 5px 15px;
+	margin: 3px 4px;
+	display: inline-block;
+	color: #ffffff;
+	cursor: pointer;
+	background: #4f2222;
+	background: linear-gradient(top, #4f2222 0%, #360909 100%);
+	background: -moz-linear-gradient(top, #4f2222 0%, #360909 100%);
+	background: -webkit-linear-gradient(top, #4f2222 0%, #360909 100%);
+	background: -o-linear-gradient(top, #4f2222 0%, #360909 100%);
+	border: 1px solid #4f2222;
+	border-radius: 0px;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-o-border-radius: 0px;
+	box-shadow:0px 0px 2px 1px rgba(0, 0, 0, 0.25);
+	-moz-box-shadow:0px 0px 2px 1px rgba(0, 0, 0, 0.25);
+	-webkit-box-shadow:0px 0px 2px 1px rgba(0, 0, 0, 0.25);
+	-o-box-shadow:0px 0px 2px 1px rgba(0, 0, 0, 0.25);
+	text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.50);
+	text-decoration: none;
+	font:normal 20px Tahoma, Geneva, sans-serif;
+    font-style:normal;
+}
+input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover, button:hover, .coffeeshop:hover {
+	background: linear-gradient(top, #693c3c 0%, #4f2222 100%);
+	background: -moz-linear-gradient(top, #693c3c 0%, #4f2222 100%);
+	background: -webkit-linear-gradient(top, #693c3c 0%, #4f2222 100%);
+	background: -o-linear-gradient(top, #693c3c 0%, #4f2222 100%);
+}
+input[type=button]:active, input[type=submit]:active, input[type=reset]:active, button:active, .coffeeshop:active{
+	opacity:0.8;
+}
+.coffeeshop {
+position: relative;
+top: 55px;
+left: 160px;
+}
+
+
+input[type=button], input[type=submit], input[type=reset], button, .coffee-shop-technology {
+	padding: 5px 15px;
+	margin: 3px 4px;
+	display: inline-block;
+	color: #ffffff;
+	cursor: pointer;
+	background: #4f2222;
+	background: linear-gradient(top, #4f2222 0%, #360909 100%);
+	background: -moz-linear-gradient(top, #4f2222 0%, #360909 100%);
+	background: -webkit-linear-gradient(top, #4f2222 0%, #360909 100%);
+	background: -o-linear-gradient(top, #4f2222 0%, #360909 100%);
+	border: 1px solid #4f2222;
+	border-radius: 0px;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-o-border-radius: 0px;
+	box-shadow:0px 0px 2px 1px rgba(0, 0, 0, 0.25);
+	-moz-box-shadow:0px 0px 2px 1px rgba(0, 0, 0, 0.25);
+	-webkit-box-shadow:0px 0px 2px 1px rgba(0, 0, 0, 0.25);
+	-o-box-shadow:0px 0px 2px 1px rgba(0, 0, 0, 0.25);
+	text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.50);
+	text-decoration: none;
+	font:normal 20px Tahoma, Geneva, sans-serif;
+    font-style:normal;
+}
+input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover, button:hover, .coffee-shop-technology:hover {
+	background: linear-gradient(top, #693c3c 0%, #4f2222 100%);
+	background: -moz-linear-gradient(top, #693c3c 0%, #4f2222 100%);
+	background: -webkit-linear-gradient(top, #693c3c 0%, #4f2222 100%);
+	background: -o-linear-gradient(top, #693c3c 0%, #4f2222 100%);
+}
+input[type=button]:active, input[type=submit]:active, input[type=reset]:active, button:active, .coffee-shop-technology:active{
+	opacity:0.8;
+}
+.coffee-shop-technology {
+position: relative;
+top: 55px;
+left: 180px;
+}
+
+
+input[type=button], input[type=submit], input[type=reset], button, .types-of-coffee {
+	padding: 5px 15px;
+	margin: 3px 4px;
+	display: inline-block;
+	color: #ffffff;
+	cursor: pointer;
+	background: #4f2222;
+	background: linear-gradient(top, #4f2222 0%, #360909 100%);
+	background: -moz-linear-gradient(top, #4f2222 0%, #360909 100%);
+	background: -webkit-linear-gradient(top, #4f2222 0%, #360909 100%);
+	background: -o-linear-gradient(top, #4f2222 0%, #360909 100%);
+	border: 1px solid #4f2222;
+	border-radius: 0px;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-o-border-radius: 0px;
+	box-shadow:0px 0px 2px 1px rgba(0, 0, 0, 0.25);
+	-moz-box-shadow:0px 0px 2px 1px rgba(0, 0, 0, 0.25);
+	-webkit-box-shadow:0px 0px 2px 1px rgba(0, 0, 0, 0.25);
+	-o-box-shadow:0px 0px 2px 1px rgba(0, 0, 0, 0.25);
+	text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.50);
+	text-decoration: none;
+	font:normal 20px Tahoma, Geneva, sans-serif;
+    font-style:normal;
+}
+input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover, button:hover, .types-of-coffee:hover {
+	background: linear-gradient(top, #693c3c 0%, #4f2222 100%);
+	background: -moz-linear-gradient(top, #693c3c 0%, #4f2222 100%);
+	background: -webkit-linear-gradient(top, #693c3c 0%, #4f2222 100%);
+	background: -o-linear-gradient(top, #693c3c 0%, #4f2222 100%);
+}
+input[type=button]:active, input[type=submit]:active, input[type=reset]:active, button:active, .types-of-coffee:active{
+	opacity:0.8;
+}
+.types-of-coffee {
+position: relative;
+top: 55px;
+left: 200px;
+}
+
+
+input[type=button], input[type=submit], input[type=reset], button, .contacts {
+	padding: 5px 15px;
+	margin: 3px 4px;
+	display: inline-block;
+	color: #ffffff;
+	cursor: pointer;
+	background: #4f2222;
+	background: linear-gradient(top, #4f2222 0%, #360909 100%);
+	background: -moz-linear-gradient(top, #4f2222 0%, #360909 100%);
+	background: -webkit-linear-gradient(top, #4f2222 0%, #360909 100%);
+	background: -o-linear-gradient(top, #4f2222 0%, #360909 100%);
+	border: 1px solid #4f2222;
+	border-radius: 0px;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-o-border-radius: 0px;
+	box-shadow:0px 0px 2px 1px rgba(0, 0, 0, 0.25);
+	-moz-box-shadow:0px 0px 2px 1px rgba(0, 0, 0, 0.25);
+	-webkit-box-shadow:0px 0px 2px 1px rgba(0, 0, 0, 0.25);
+	-o-box-shadow:0px 0px 2px 1px rgba(0, 0, 0, 0.25);
+	text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.50);
+	text-decoration: none;
+	font:normal 20px Tahoma, Geneva, sans-serif;
+    font-style:normal;
+}
+input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover, button:hover, .contacts:hover {
+	background: linear-gradient(top, #693c3c 0%, #4f2222 100%);
+	background: -moz-linear-gradient(top, #693c3c 0%, #4f2222 100%);
+	background: -webkit-linear-gradient(top, #693c3c 0%, #4f2222 100%);
+	background: -o-linear-gradient(top, #693c3c 0%, #4f2222 100%);
+}
+input[type=button]:active, input[type=submit]:active, input[type=reset]:active, button:active, .contacts:active{
+	opacity:0.8;
+}
+.contacts {
+position: relative;
+top: 55px;
+left: 220px;
+}
