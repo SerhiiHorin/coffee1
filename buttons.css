@@ -33,9 +33,9 @@ input[type=button]:active, input[type=submit]:active, input[type=reset]:active, 
 	opacity:0.8;
 }
 .button {
-position: relative;
-top: 55px;
-left: 150px;
+position: absolute;
+top: 55%;
+left: 5%;
 }
 
 
@@ -75,9 +75,9 @@ input[type=button]:active, input[type=submit]:active, input[type=reset]:active, 
 	opacity:0.8;
 }
 .coffeeshop {
-position: relative;
-top: 55px;
-left: 160px;
+position: absolute;
+top: 55%;
+left: 15%;
 }
 
 
@@ -116,9 +116,9 @@ input[type=button]:active, input[type=submit]:active, input[type=reset]:active, 
 	opacity:0.8;
 }
 .coffee-shop-technology {
-position: relative;
-top: 55px;
-left: 180px;
+position: absolute;
+top: 55%;
+left: 30%;
 }
 
 
@@ -157,14 +157,14 @@ input[type=button]:active, input[type=submit]:active, input[type=reset]:active, 
 	opacity:0.8;
 }
 .types-of-coffee {
-position: relative;
-top: 55px;
-left: 200px;
+position: absolute;
+top: 55%;
+left: 55%;
 }
 
 
 input[type=button], input[type=submit], input[type=reset], button, .contacts {
-	padding: 5px 15px;
+    padding: 5px 15px;
 	margin: 3px 4px;
 	display: inline-block;
 	color: #ffffff;
@@ -198,7 +198,7 @@ input[type=button]:active, input[type=submit]:active, input[type=reset]:active, 
 	opacity:0.8;
 }
 .contacts {
-position: relative;
-top: 55px;
-left: 220px;
+position: absolute;
+top: 55%;
+left: 80%;
 }
